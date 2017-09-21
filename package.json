@@ -1,0 +1,23 @@
+{
+  "name": "bamazon_app",
+  "version": "1.0.0",
+  "description": "Bamazon_App",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msgctcheng/bamazon_app.git"
+  },
+  "author": "Christopher Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msgctcheng/bamazon_app/issues"
+  },
+  "homepage": "https://github.com/msgctcheng/bamazon_app#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.14.1"
+  }
+}
