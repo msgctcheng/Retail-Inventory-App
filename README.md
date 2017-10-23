@@ -1,6 +1,7 @@
-# bamazon_app
+# "BAMAZON" Inventory/Retail App
+                                        Node.js | "inquirer" - npm | "mysql" - npm | MySQL
 Basic Amazon-like app using MYSQL and Node.js
 
-See video "Chris Cheng - bamazon Video.webm" for live demo!
+* YouTube Demo:
 
-https://media.giphy.com/media/3o7aDgsUZgx6zjYSKk/giphy.gif
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hWOtMMcRFXM/0.jpg)](http://www.youtube.com/watch?v=hWOtMMcRFXM)
